@@ -21,3 +21,4 @@ $ npm install
 * [All in this list](https://github.com/vuejs-templates/pwa#whats-included), and:
 * SASS pre-processor (`node-sass` and `sass-loader`)
 * [`sass-resources-loader`](https://github.com/shakacode/sass-resources-loader), no need to import variables or mixins in every component anymore
+* axios, optional in your need
